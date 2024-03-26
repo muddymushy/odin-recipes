@@ -1,11 +1,7 @@
-.ingredients, .method {
-    border: 2px solid;
-    margin-bottom: 5%;
-}
-
 ul, ol {
     font-size: 18px;
     line-height: 2;
+    border: 2px solid;
 }
 
 h1, h4 {
@@ -14,12 +10,15 @@ h1, h4 {
 
 h1 {
     font-size: 40px;
+    display: block;
+    border: solid 2px;
 }
 
 h4 {
     font-size: 25px;
+    display: block;
+    margin-bottom: -5px;
 }
-
 
 img {
     height: 500px;
