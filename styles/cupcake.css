@@ -4,20 +4,19 @@ ul, ol {
     border: 2px solid;
 }
 
-h1, h4 {
-    text-align: center;
-}
-
 h1 {
-    font-size: 40px;
+    font-size: 55px;
     display: block;
     border: solid 2px;
+    text-align: center;
 }
 
 h4 {
     font-size: 25px;
     display: block;
     margin-bottom: -5px;
+    text-align: left;
+    margin-left: 5%;
 }
 
 img {
@@ -27,4 +26,8 @@ img {
 
 figure {
     text-align: center;
+}
+
+body {
+    background-color: rgb(249,204,202,1);
 }
